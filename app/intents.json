@@ -1,0 +1,261 @@
+{
+  "includes": {
+
+    "ask_recommendation": [
+      "Can you suggest something in black?",
+      "Need waist recommendation."
+    ],
+
+    "ask_size_advise": [
+      "Should I buy 36 or 38 size?",
+      "Should I get 30 or 32?",
+      "Should I get the same size or go up a size?",
+      "Should I get the same size or go down a size?",
+      "Should I order up a size?",
+      "Should I order down a size?",
+      "Should I order 50s?",
+      "Should I size up or size down?",
+      "What size do you recommend?",
+      "What size do you suggest?",
+      "What size should be selected?",
+      "What size should I order?",
+      "What size should I be on Levi’s 29 or 30?",
+      "What size should I get?",
+      "What size should I wear?",
+      "What size will suit me?",
+      "What size would you suggest?",
+      "What would be the best size in this pair?",
+      "Which size do you suggest?",
+      "Would you suggest a 25 or 26?",
+      "Would you recommend a 30 or 38?",
+      "Would he be a 34 in flex jeans?",
+      "Would a size 28 fit for these?"
+    ],
+
+    "ask_inseam_advise": [
+      "What would my inseam be?"
+    ],
+
+    "size_clarification": [
+      "How do these sizes equate to regular sizes?",
+      "What are the dimensions of these jeans?",
+      "What is size 14 in European sizes",
+      "What size is",
+      "What size is equivalent to an size 10",
+      "What size would be equal to a size 6",
+      "What size will a 14 be?",
+      "What would a size 16 be?",
+      "What would size 14 be equivalent to in those numbers?"
+    ],
+
+    "length_clarification": [
+      "What is the length?",
+      "What is the length of",
+      "What are the lengths of inseams?"
+    ],
+
+    "inseam_clarification": [
+      "What about the inseam?",
+      "What are the measurements of the inseams?",
+      "What is a medium inseam?",
+      "What is the inseam for women's S?",
+      "What is the inseam supposed to be?"
+    ],
+
+
+    "bottom_clarification": [
+      "Is it really wide at the bottom?",
+      "Are they really wide at the bottom?",
+      "Will they fit snug around boots?",
+      "Are the legs wide enough to fit over boots?",
+      "Is this with the rolled hem?"
+    ],
+
+    "shrink_expand_clarification": [
+      "Shrinkage a problem?",
+      "Does it expand from size 32 to 33 or 34 waist size?"
+    ],
+    
+    
+    "seek_by_material": [
+      "Looking for 80 % cotton 20 % poly jean",
+      "I am looking for 60 % cotton 40 % poly jean"
+    ],
+
+    "seek_by_size": [
+      "Looking for a large waist size 44 and slim leg.",
+      "I'm looking for a size 32",
+      "I am looking for a size 30",
+      "Looking for a size 30",
+      "I need legs that are at least 30 wide",
+      "I need legs that are at something about 32 wide"
+    ],
+
+
+    "fit_clarification": [
+      "Does it run small?",
+      "Does it run big?",
+      "Do these run small?",
+      "Do these run big?",
+      "Do these run a size small in the waist?",
+      "Does it run a size small in the waist?",
+      "Do these run a size big in the waist?",
+      "Does it run a size big in the waist?",
+      "Do they run true to size?",
+      "Does it run true to size?",
+      "Would these be comfortable to wear at the waist like I am supposed to wear them?",
+      "How would these fit for someone who wears a size 60w?",
+      "Are these jeans baggy in the upper leg?",
+      "Are these jeans baggy in the bottom leg?"
+    ],
+
+    "legs_clarification": [
+      "And the size of the legs",
+      "What size are the legs?",
+      "What is the size of the legs?",
+      "What size the legs have?"
+    ],
+
+    "category_jeans": [
+      "Jeans",
+      "Jeans, please",
+      "I'm looking for a jeans",
+      "I am looking for a jeans",
+      "Looking for jeans",
+      "What jeans do you have?",
+      "Can you show me jeans?",
+      "Show me jeans, please",
+      "Are there any jeans?"
+    ],
+
+    "simple_color": [
+      "beige",
+      "white",
+      "turquoise",
+      "burgundy",
+      "navy",
+      "blue",
+      "yellow",
+      "green",
+      "brown",
+      "red",
+      "multicolor",
+      "orange",
+      "pink",
+      "taupe",
+      "grey",
+      "purple",
+      "black"
+    ],
+    "material": [
+      "linen",
+      "cotton",
+      "elastane",
+      "polyester",
+      "viscose",
+      "lycra",
+      "spandex",
+      "denim"
+    ],
+
+    "schedule_haircut": [
+      "I need to make an appointment for a haircut",
+      "I would like to schedule an appointment to get a haircut",
+      "schedule haircut",
+      "can I have a haircut",
+      "i need haircut",
+      "schedule an appointment",
+      "and here is her like really long can I walk in like the next day",
+      "i want to schedule an appt"
+    ],
+
+    "cancel_appt": [
+      "i need to cancel my appointment",
+      "unfortunately i have to cancel",
+      "can I cancel"
+    ],
+    
+    "bye": [
+      "bye",
+      "ok bye",
+      "good bye",
+      "thanks bye"
+    ],
+    "monday": [
+      "monday",
+      "on monday",
+      "this monday",
+      "next monday",
+      "oh monday",
+      "monday please",
+      "on monday please",
+      "this monday please"
+    ],
+    "tuesday": [
+      "tuesday",
+      "on tuesday",
+      "this tuesday",
+      "next tuesday",
+      "oh tuesday",
+      "tuesday please",
+      "on tuesday please",
+      "this tuesday please"
+    ],
+    "wednesday": [
+      "wednesday",
+      "on wednesday",
+      "this wednesday",
+      "next wednesday",
+      "oh wednesday",
+      "wednesday please",
+      "on wednesday please",
+      "this wednesday please"
+    ],
+    "thursday": [
+      "thursday",
+      "on thursday",
+      "this thursday",
+      "next thursday",
+      "oh thursday",
+      "thursday please",
+      "on thursday please",
+      "this thursday please"
+    ],
+    "friday": [
+      "friday",
+      "on friday",
+      "this friday",
+      "next friday",
+      "oh friday",
+      "friday please",
+      "on friday please",
+      "this friday please"
+    ],
+    "saturday": [
+      "saturday",
+      "on saturday",
+      "this saturday",
+      "next saturday",
+      "oh saturday",
+      "saturday please",
+      "on saturday please",
+      "this saturday please"
+    ],
+    "sunday": [
+      "sunday",
+      "on sunday",
+      "this sunday",
+      "next sunday",
+      "oh sunday",
+      "sunday please",
+      "on sunday please",
+      "this sunday please"
+    ]
+  },
+  "excludes": {
+    "cancel_appt": [
+      "yeah",
+      "and here is her like really long can I walk in like the next day"
+    ]
+  }
+}
